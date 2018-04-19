@@ -78,6 +78,4 @@ Try using the `%` operator in your `#current_player` method. Then, try refactori
 
 If you can get your `#current_player` method working using `if`/`else` statements, try refactoring it using the ternary operator. You can read the [Ruby documentation](http://ruby-doc.org/core-2.3.0//doc/syntax/control_expressions_rdoc.html#label-Ternary+if) on ternary operators to learn more, and of course, Google around as well. 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ttt-10-current-player' title='Tic Tac Toe Current Player'>Tic Tac Toe Current Player</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/ttt-10-current-player'>Tic Tac Toe Current Player</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T1 Tic Tac Toe Current Player</p>

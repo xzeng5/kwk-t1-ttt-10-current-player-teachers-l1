@@ -4,3 +4,4 @@ tags:
 languages:
   - ruby
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/ttt-10-current-player.git
